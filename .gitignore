@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+build/
+dist/
+# ESP-IDF / PlatformIO
+sdkconfig.old
+.pio/
+# raw sensing captures (may contain personal data)
+data/raw/
+*.csi
