@@ -1,0 +1,21 @@
+# Cache Valley Stargazing Events: Low-Effort Ideas (checked 2026-10-21)
+Base: ~13 ac rural site in Cache County, evening events, $20 adult / $10 kid. Revenue numbers are rough estimates I calculated from my own assumptions (listed) and still need testing. Zoning reminder from earlier research: Cache County A10 needs a CUP ($600) for more than 3 campsites, and a 2022 report noted a cap of 30 overnight stays/year. Check with the county before doing anything overnight.
+
+Price check: Bryce-area tours charge $55 adult/$45 kid (Bryce Canyon Stargazing) and $55/$30/$20 (Dark Ranger Tours). Your $20/$10 is well below those, which fits "not greedy". Cache Valley Astronomical Society runs free public star parties, so your draw has to be comfort and convenience (chairs, cocoa, guided telescope).
+
+| # | Idea | Effort | Rough revenue (assumption) | Verified facts / source |
+|---|---|---|---|---|
+| 1 | **Book through Airbnb Experiences** so guests find you without marketing | Low (set up once) | 2 nights/mo × 10 adults × $25 = $500/mo gross, minus 20% fee = $400 | Airbnb takes ~20% from experience hosts: https://www.airbnb.com/help/article/3164 |
+| 2 | **Meteor shower nights** (Perseids Aug 12–13, Geminids Dec 13–14, plus Quadrantids/Lyrids/Orionids). Bare eyes only, so just loungers and cocoa | Very low | 3 nights × 30 people × $15 = ~$1,350/yr | Annual shower dates (verify each year with AMS: https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/) |
+| 3 | **Seestar photo add-on.** The smart telescope shoots a nebula or galaxy and you text guests the image | Very low (it runs itself) | +$10 × 50% of guests | Seestar S30 Pro $699: https://www.seestar.com/products/seestar-s30-pro |
+| 4 | **Harvest Hosts.** RVers dry-camp one night and are expected to spend about $30 on your event or cocoa. No commission | Low | 10 stays/yr × $30–50 = $300–500; also fills events | https://www.harvesthosts.com/blog/do-you-have-to-buy-something-during-a-harvest-hosts-stay (overnight stays limited by zoning) |
+| 5 | **Hipcamp listing** ("stargazing campsite"), up to 3 sites without a CUP | Low–med | 30 nights × $35 = ~$1,050 minus 15% | Hipcamp takes 15% from private landowners: https://support.hipcamp.com/hc/en-us/articles/360024823412 |
+| 6 | **School / scout field trips** (Cache & Logan districts, Scouts astronomy badge) at a flat group rate | Low (daytime-ish dusk, fall/winter early dark) | 6 groups × $150 = $900/yr | Group rate is my assumption. Utah 6th-grade science (SEEd) covers the Earth–Sun–Moon system; confirm the exact standard with teachers |
+| 7 | **Private / date-night / proposal package** (2 people, blankets, cocoa, telescope, photo) | Low | 1/mo × $120 = $1,440/yr | Bryce private tours start at $799/4 people: https://brycecanyonstargazing.com/tours |
+| 8 | **Partner with Cache Valley Astronomical Society / Cache Valley Star Alliance.** Host their dark-site nights; they bring volunteers and telescopes and you sell cocoa and parking donations | Very low | Small cash, big credibility | https://cvas-utahskies.org/ ; https://www.hjnews.com/news/local/cache-valley-star-alliance-rallies-to-save-the-night/article_05a33df4-df5d-4173-8475-340bae43d0c8.html |
+| 9 | **Rent Solar Nomad trailer + stargazing night** as a bundle (ties to the launch). Ties to Solar Nomad | Med | +$25–50 per rental | Overnight cap applies |
+| 10 | **DarkSky certification (long shot).** Good for marketing. DarkSky Places mostly certifies parks and communities, so a private 13 ac lot likely doesn't qualify alone. Easier step: switch to dark-sky-friendly lighting and say so | Med–high | Indirect | Program overview (2020 DarkSky guide says no-fee evaluation; current terms unverified): https://darksky.org/app/uploads/bsk-pdf-manager/2020/08/Dark-Skies-Issue-Guide-7-27-2020.pdf |
+
+**Rough total if he does #1–8:** roughly $8–11K/yr gross if the assumptions hold (#1 ~$4.8K, #2 ~$1.35K, #3 ~$1.2K, #7 ~$1.4K, rest ~$2.2K). That's a side income with low effort, not a full business. The easiest start is #1 + #2 + #3: one Airbnb listing, one Seestar, and loungers.
+
+**Unverified:** the site's actual sky darkness (Bortle class). Check lightpollutionmap.info or take an SQM reading before marketing it as "dark sky".
