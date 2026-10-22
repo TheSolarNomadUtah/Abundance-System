@@ -22,9 +22,13 @@ Make a good life cheaper and sturdier: solar-powered, low-waste living that work
 | 9 | **Lamplight Reading** | Calm early-reading app that coaches parents, not just kids | Idea |
 
 ### 1. Solar Nomad (Part 1)
+![Concept: solar camping trailer](images/solar-trailer-concept.jpg)
+
 Off-grid trailer rentals with solar, battery, and optional Starlink. Real customers, real feedback, and a place to field-test everything below.
 
 ### 2. Bamboo + biomimetic housing
+![Concept: bamboo and hempcrete home](images/bamboo-home-concept.jpg)
+
 - Bamboo is strong. Across 43 studies, average culm compressive strength is **~52 MPa** (middle 50%: 41–62) and bending strength (MOR) is **~120 MPa** (middle 50%: 80–149). Values vary a lot by species and moisture. [source](docs/factcheck.md)
 - **Unproven:** strength gains from internal fractal/lattice reinforcement. No test data exists yet; we will test before claiming numbers.
 - Hempcrete is **infill/insulation, not structure**.
@@ -36,26 +40,37 @@ Off-grid trailer rentals with solar, battery, and optional Starlink. Real custom
 - Tesla Semi packs are **822 kWh** (Long Range) and **548 kWh** (Standard), per the CARB filing. Reusing Semi packs is a far-future idea only.
 
 ### 4. Mycelium materials
+![Concept: mycelium insulation blocks](images/mycelium-panels.jpg)
+
 - Real mycelium composites: compressive strength **~0.03–4.4 MPa**, tensile **~0.01–1.6 MPa**, density **~0.1–0.8 g/cm³**. Great insulation, **not** structural walls.
 - Focus: insulation panels, packaging, and acoustic tiles.
 
 ### 5. Wi-Fi sensing
+![Diagram: Wi-Fi sensing in a trailer](images/wifi-sensing-diagram.jpg)
+
 - ESP32 boards can read Wi-Fi channel state information (CSI) to detect motion and, under good conditions, breathing ([Espressif esp-csi](https://github.com/espressif/esp-csi)).
 - This is **not new science**. Companies like Cognitive Systems, Origin AI, and Aerial already ship it in homes. Our open question: does it work in **small metal trailers that move**, on a microcontroller, with no cloud?
 - **Privacy:** sensing inside a rental needs clear disclosure and guest consent (see Utah Code 76-12-302). The design uses coarse events only, no raw data leaving the device, and a physical off switch.
 - Draft research pitch: [docs/nsf_pitch_wifi.md](docs/nsf_pitch_wifi.md)
 
 ### 6. Star Fleet: citizen-science telescopes
+![Concept: citizen-science telescope network](images/star-fleet-network.jpg)
+
 Smart telescopes (e.g., ZWO Seestar) at rentals and the stargazing site. The goal is to contribute observations to existing citizen-science programs rather than build a new network.
 
 ### 7. Soul Resonance
 A playful browser experiment: pick tones (sine, singing bowl, ocean, OM…) and watch sand-like Chladni patterns form. Meant to be calming, not addictive.
 
 ### 8. Stargazing site
+![Concept: evening stargazing event](images/stargazing-night.jpg)
+
 Simple evening events: loungers, cocoa, a big Dobsonian telescope, and a smart scope for photos. Fair prices, low effort. Ideas and add-ons: [docs/stargazing_ideas.md](docs/stargazing_ideas.md)
 
 ### 9. Lamplight Reading
 A low-stimulation reading app. Short nightly sessions where the app coaches a parent through phonics and decodable stories. No coins, streaks, or autoplay. Data stays on the device.
+
+## Images
+All images in `images/` are AI-generated concept art and diagrams, not photos of built prototypes.
 
 ## Roadmap
 See [docs/ROADMAP.md](docs/ROADMAP.md).
